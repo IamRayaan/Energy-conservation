@@ -1,0 +1,27 @@
+body {
+  background: #f1f8e9;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.card {
+  padding: 22px;
+}
+
+img {
+  width: 180px;
+  margin: 10px 0;
+}
+
+p {
+  font-size: 15px;
+  color: #2e7d32;
+}
+
+button {
+  padding: 7px 16px;
+  background: #558b2f;
+  color: white;
+  border: none;
+}
